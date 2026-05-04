@@ -18,7 +18,7 @@
 
 | Feature                        | Status     | Description |
 |-------------------------------|------------|-----------|
-| Multi-Chain Address Screening | ✅         | Bitcoin, Ethereum, Solana, Tron, BSC и др. |
+| Multi-Chain Address Screening | ✅         | Bitcoin, Ethereum, Solana, Tron, BSC |
 | Real-time Transaction Monitoring | ✅      | Live scanning of incoming/outgoing txs |
 | Integration with Top AML APIs | ✅         | Chainalysis, Scorechain, TRM Labs, Crystal |
 | Risk Scoring System           | ✅         | 0-100 risk score with detailed breakdown |

@@ -6,7 +6,7 @@
 
 **Real-time crypto address & transaction screening with top-tier AML providers.**
 
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourchannel)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crypto_aml_checker_bot)
 
 </div>
 

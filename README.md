@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img src="https://https://github.com/JaredBatt/crypto-aml-bot-checker/blob/main/AML%20Software%20Interface.png" width="100%" alt="AML Bot Banner">
+  <img src="https://raw.githubusercontent.com/yourusername/polymarket-bot/main/banner.png" width="100%" alt="Polymarket Bot Banner">
 </div>
 
 ---

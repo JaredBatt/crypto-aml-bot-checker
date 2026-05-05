@@ -6,7 +6,7 @@
 
 **Real-time crypto address & transaction screening with top-tier AML providers.**
 
-[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JaredBatt/crypto-aml-bot-checker/releases/tag/Download-AML-Bot)
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JaredBatt/crypto-aml-bot-checker/releases/tag/AML-Checker)
 
 [![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JaredBatt/crypto-aml-bot-checker/tree/main)
 

@@ -2,8 +2,6 @@
 
 # 🛡️ Crypto AML Bot
 
-**Advanced Anti-Money Laundering Intelligence & Risk Analysis Tool for Cryptocurrency**
-
 **Real-time crypto address & transaction screening with top-tier AML providers.**
 
 [![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JaredBatt/crypto-aml-bot-checker/releases/tag/AML-Checker)
